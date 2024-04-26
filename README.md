@@ -5,7 +5,7 @@ This script automates secure installations, verifies network anonymity, and cond
 > **Please Take a Look At The PDF Document And Watch The Video Above To Gain a Deeper Understanding Of The Project** 
 
 ## What the project does and what the purpose of it ? 
-What the project does and what the purpose of it ?
+What the project does and what the purpose of it?
 In the internet world, like everything in the world there is a good side but there are also
 things that are not always good and allowed to be done and might be illegal to do.
 In such cases the experienced people who do these kind of things, will always try to hide
