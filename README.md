@@ -36,4 +36,5 @@ files and will transfer them into your computer safely without you being exposed
 ---
 
 ### <p align="center"> Before Running the Code, We Recommend Watching the Associated Video and Reviewing the PDF Documentation for a Clearer Understanding of the Project.</p>
+#### <p align="center"> If you'd like to run the script yourself, download the file *"nr.project.sh.x"* to a Linux system, grant execute permission by using the command *"chmod 777 nr.project.sh.x"*, and run it in the terminal with *"./nr.project.sh.x"*.</p>
 ### <p align="center">Have fun and enjoy exploring the script's capabilities!</p>
